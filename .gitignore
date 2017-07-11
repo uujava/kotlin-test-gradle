@@ -1,0 +1,13 @@
+*.iml
+*.jpr
+*.iws
+*.ipr
+*.log
+.idea/
+.gradle/
+.shelf/
+build/
+out/
+classes/
+scheduler_data/
+*.gitpush
